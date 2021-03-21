@@ -1,0 +1,19 @@
+{
+  "name": "opensource.wuriyanto.com",
+  "version": "1.0.0",
+  "description": "http://opensource.wuriyanto.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuriyanto48/opensource.wuriyanto.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuriyanto48/opensource.wuriyanto.com/issues"
+  },
+  "homepage": "https://github.com/wuriyanto48/opensource.wuriyanto.com#readme"
+}
